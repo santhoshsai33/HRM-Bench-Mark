@@ -47,7 +47,7 @@ const Dashboard = () => {
         </div>
         <div className="flex items-center space-x-3">
           <button className="flex items-center px-4 py-2 bg-white border border-slate-200 rounded-xl text-sm font-semibold text-slate-600 hover:bg-slate-50 transition-all shadow-sm">
-            <CalendarDays className="w-4 h-4 mr-2" /> Last 30 Days
+            <CalendarDays className="w-4 h-4 mr-2" /> Last 40 Days
           </button>
         </div>
       </div>
